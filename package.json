@@ -1,0 +1,13 @@
+{
+  "name": "gorest-example",
+  "version": "0.1.0",
+  "description": "gorest-example",
+  "repository": "https://github.com/homburg/gorest-example.git",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-bg-shell": "~2.0.2"
+  }
+}
