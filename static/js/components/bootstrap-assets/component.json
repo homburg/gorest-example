@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-assets",
+  "version": "2.3.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/srigi/html-bootstrap-assets.git"
+  },
+  "main": [
+    "./css/bootstrap.css",
+    "./js/bootstrap.js"
+  ],
+  "dependencies": {
+    "jquery": "~1.9"
+  },
+  "gitHead": "98c9c0506c3e451bb9a9537f02f4d59dabe43907",
+  "readme": "# Static assets from [Twitter Bootstrap][bootstrap]\n\nIf you ever needed only static assets from [Twitter Bootstrap][bootstrap] project (for [Bower][bower] packager for example), this is right repo for you. It maps directly to Twitter Bootstrap's [tags][bootstrap-tags]. Any future releases will follow.\n\n[bootstrap]: https://github.com/twitter/bootstrap\n[bootstrap-tags]: https://github.com/twitter/bootstrap/tags\n[bower]: https://github.com/twitter/bower\n",
+  "readmeFilename": "README.md",
+  "_id": "bootstrap-assets@2.3.2",
+  "description": "If you ever needed only static assets from [Twitter Bootstrap][bootstrap] project (for [Bower][bower] packager for example), this is right repo for you. It maps directly to Twitter Bootstrap's [tags][bootstrap-tags]. Any future releases will follow."
+}
